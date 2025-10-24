@@ -34,7 +34,7 @@
 
 ## 📚 المصدر:
 
-  لقراءة المقالة :
+  لقراءة المقالة :https://github.com/llm-brain-rot/llm-brain-rot
 ```bibtex
 @article{xing2024brainrot,
     title={LLMs Can Get "Brain Rot"!},
